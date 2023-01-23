@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 .idea/
 .DS_Store
+lesson_13.py
+HW_6.pdf
